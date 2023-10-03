@@ -1,9 +1,9 @@
 export type SiteConfig = typeof siteConfig
 
 export const siteConfig = {
-  name: "Stock Visualizer",
+  name: "Cybiz Stock Picks",
   description:
-    "A simple stock visualizer.",
+    "Recommendations generated based on cybiz tools",
   mainNav: [
     {
       title: "",
@@ -11,7 +11,7 @@ export const siteConfig = {
     },
   ],
   links: {
-    twitter: "https://twitter.com/ArthurVerrez",
-    github: "https://github.com/ArthurVerrez/stock-visualizer"
+    twitter: "https://twitter.com/cybiz_",
+    
   },
 }

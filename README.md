@@ -1,6 +1,6 @@
 ![Alt text](readme.png)
 # Stock Visualizer
-A very simple app to visualize stock data, you can find it [here](https://stock-visualizer-arthurverrez.vercel.app/).
+A very simple app to visualize stock data, you can find it [here]
 
 > **Warning**
 > This app is a work in progress, it is more of a proof of concept than a fully functional app.
